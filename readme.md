@@ -1,8 +1,4 @@
-# Header
-## Smaller header
-### Really small header
+# A land of adventure
+### work in progress..
 
-> Comment
-`anything in between these will end up in a box` - for multiline use three of them on each side 
-
-Links can be made like (this)[http://www.github.com] - this will make 'this' be a clickable link
+> Not best practice as it looks at the moment. Separate functionality must be put in different files, and tests needs to be written for all outcomes. At the moment working on the recognizing algorithm for neighbouring squares for a randomized dungeon level
